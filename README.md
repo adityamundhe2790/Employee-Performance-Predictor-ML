@@ -16,7 +16,7 @@ This project predicts employee performance using Machine Learning and provides a
 - Plotly, Seaborn
 
 ## 📊 Model Performance
-- Accuracy: ~90%
+- Accuracy: ~85%
 - Confusion matrix shows strong classification across all categories
 
 ## ▶️ Run Locally
